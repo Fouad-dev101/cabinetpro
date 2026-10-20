@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "CabinetPro",
+  "outputfilename": "cabinetpro-wails-init-cf10f17c5e364148a4a113b5d3d4af67",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Fouad Sabbani",
+    "email": "fouadsabbani48@gmail.com"
+  }
+}
